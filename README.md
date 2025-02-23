@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Julius<br>🌱 I’m currently learning FastAPI
+
 
 
 ## 🌐 Socials:
